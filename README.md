@@ -1,2 +1,3 @@
-# Climate-Downscaling
-My personal code and scripts to do downscaling.
+# Todo list
+* plot .nc files
+* do some statistics
