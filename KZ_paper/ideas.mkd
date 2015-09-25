@@ -1,0 +1,21 @@
+Ideas:
+
+## Title:
+
+1. Statistical downscaling of monthly mean temperature for Kazakhstan in Central Asia using linear multiple regression.
+
+
+## Introduction:
+
+* What is the statistical downscaling used for, and why it important?
+* Why the study area important?
+* What I will do in this research?
+
+## Data and methodology:
+
+* Research area
+* 
+* GHCN
+* NCEP/NCAR
+* 
+* 

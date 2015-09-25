@@ -1,7 +1,15 @@
 ## Manuscript
 
-**title**: 
+### title: 
 development of a statistical downscaling model for monthly mean temperature in Kazakhstan
 
 statistical downscaling of monthly mean temperature for Kazakhstan
 
+
+
+
+
+
+### figures:
+1. map of Kazakhstan, including topography, stations location, eagle eye, boundary.
+2. line art of climatology, just like the Seaborn Example.

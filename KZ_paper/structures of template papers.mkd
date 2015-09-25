@@ -1,0 +1,82 @@
+# Structure
+
+
+## (1) the Pakistan paper
+
+### Introduction
+1. brief introduction of the research area
+2. why Pakistan need finer resolution information of future climate
+3. why GCM fails to give the good information
+3. so downscaling is needed and is briefly introduced here.
+5. review of applications of SD incorporating different methodologies
+6. introduction of future climate scenarios
+7. particularly a Motive and objectives sector is presented to be a summary for the Introduction part.
+   
+### Data and methodology
+1. station observation
+2. NCEP and GCMs as predictors
+
+3. **methodology**: 
+how the SDSM works
+
+
+### Results and discussion
+1. choose three stations
+2. show the correlation between generated and observed
+>Although it requires some more comprehensive analytic studies, but initially, it can be concluded that if the data projected for the base period is very close to the observed data then future projections by the model may also be considered reliable 
+3. which result good and which bad and the reasons
+4. for scenarios respectively
+
+### Conclusion and recommendations
+1. a summary and main conclusion
+2. agree or not agree with other studies
+3. what will be done in further studies
+
+
+## (2) the India paper
+
+### 
+
+...
+
+## (3) Zhang Xianliang's paper
+
+### Introduction
+1. GCM simulates future climate but not fine enough. While many applications need higher resolution climate. So downscaling make it possible to assess climate change impact at a local scale. **overview**
+2. review of different downcaling methods at different regions. The classification between statistical downscaling and dynamical downscaling was presented here. Then the pros and cons of these two types came out here. **review of downscaling**
+3. dive into statistical downscaling's classification and its basic idea. **review of SD**
+4. two steps of SD, predictor should be weighted, then introduce BMA. **BMA**
+5. introduce study area which is sparsely mentioned in literatures. **study area**
+6. And say what will do in this study. **what will be done next**
+
+### Data and methodology
+1. data:
+    1. Predictand: Chinese Meteorology Data, source, brief, quality control, how many in total.
+    2. predictor: NCEP. SLP, UV850, etc. totally 14 predictors was selected. WHY? Recommended by literature. Why NCEP, it could be considered an ideal model output.  
+    3. evaluate all the predictors. Those not meet the criteria. And a brief result of predictors evaluated as significant.
+
+2. Method:
+    1. Standardization: formula, baseline
+    2. Transformation: PCA ...
+    3. Statistical model: BMA ...
+        1. development ...
+        2. validation ...
+
+3. Result:
+    1. correlation coefficient is how many? bias? RMSE?
+    2. monthly, seasonal and annual.
+    3. error spatial distribution.
+
+4. Discussion:
+    1. compare with other's work
+    2. future outlook.  
+
+
+
+
+
+
+
+
+
+
