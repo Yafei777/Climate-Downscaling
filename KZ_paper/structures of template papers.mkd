@@ -35,9 +35,53 @@ how the SDSM works
 
 ## (2) the India paper
 
-### 
+### Introduction
+1. GCM's developing and evolving
+2. review of downscaling applications
+3. why we have to use downscaling. What's the importance of downscaling.
+4. the main methodology used in this study. ANN,and the review of it.
+5. The main objective is assess the effectiveness of ANN to downscaling temperature.
 
-...
+### Study region
+1. where: location or domain, latitude, longitude, etc.
+2. an overview of the environment or what you are focusing on of this area, like temperature, precipitation, etc.
+3. Here should be a **figure** for the location and the temperature.
+4. Why is this area so important. Maybe sensitive to climate change, or crucial to regional sustainable development, or have some key factors for their economy or natural environment.
+
+### Data extraction
+1. Reanalysis data: NCEP, time period, resolution, and how many grid points.
+2. Meteorological data, OMG, here just one station over ten years!
+3. GCM 
+4. GCM data was interpolated by inverse square algorithm, which was fully peer-viewed in downscaling studies.
+5. The two steps to carry out downscaling: model development and then used to GCM
+
+### Selection of predictors
+1. What are the criteria of selection of predictors: for GCM, statistically significant, no colinearity.
+2. A brief review of studies using certain predictors for temperature downscaling.
+3. Scatter plots and cross correlations. **some literatures**. And the metrics of cross-correlations.
+
+### Developing of downscaling models
+1. review of method to build downscaling model.
+2. Standardization and why. baseline.
+3. PCA and why.
+4. separate data into training set and test set.
+5. equations of coefficients of regression shown as a table.
+
+### Results and discussions
+1. results of predictor selection
+    1. which is the best predictor and how can you tell that from the tables drawn before.
+    2. Two groups of comparisons: NCEP vs GCM, and NCEP vs observational data.  
+    3. One to verify the reliability of simulations of GCM, the other 
+2. evaluating downscaling model
+    1. PCA result: how much variance the PCs explained.
+    2. statistics of evaluation: CR, SSE, RMSE, etc. the **definition** of them.
+    3. the temperature will increase or decrease? show some figures.
+
+### conclusion
+1. investigates the **applicability** of linear multiple regression.
+2. what will be if the climate change.
+3. how agree with other study in familiar area.
+
 
 ## (3) Zhang Xianliang's paper
 
